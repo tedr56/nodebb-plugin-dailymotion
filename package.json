@@ -17,16 +17,11 @@
     "video",
     "embed"
   ],
-  "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
-  },
+  "author": "psychobunny <psycho.bunny@hotmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/tedr56/nodebb-plugin-youtube/issues"
   },
-  "readme": "",
-  "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-dailymotion@0.0.1",
-  "_from": "nodebb-plugin-dailymotion@~0.0.1"
+  "_from": "nodebb-plugin-dailymotion@~0.0.1",
+  "homepage": "https://github.com/tedr56/nodebb-plugin-dailymotion"
 }
