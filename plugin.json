@@ -1,0 +1,14 @@
+{
+	"id": "nodebb-plugin-dailymotion",
+	"name": "NodeBB Dailymotion Plugin",
+	"description": "NodeBB Plugin that allows users to embed Dailymotion videos inline in their posts.",
+	"url": "https://github.com/tedr56/nodebb-plugin-dailymotion",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
+	],
+	"staticDir": "./static",
+	"css": [
+		"style.css"
+	]
+}
