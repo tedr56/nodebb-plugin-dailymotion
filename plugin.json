@@ -7,7 +7,6 @@
 	"hooks": [
 		{ "hook": "filter:post.parse", "method": "parse", "callbacked": true }
 	],
-	"staticDir": "./static",
 	"staticDirs": {
         "css": "./static"
     }
