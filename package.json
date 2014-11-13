@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dailymotion",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "NodeBB Dailymotion Plugin",
   "main": "library.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "psychobunny <psycho.bunny@hotmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/tedr56/nodebb-plugin-youtube/issues"
+    "url": "https://github.com/tedr56/nodebb-plugin-dailymotion/issues"
   },
   "_from": "nodebb-plugin-dailymotion@~0.0.1",
   "homepage": "https://github.com/tedr56/nodebb-plugin-dailymotion"
