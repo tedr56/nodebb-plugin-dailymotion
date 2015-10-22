@@ -2,7 +2,7 @@
 	"use strict";
 
 	var Dailymotion = {},
-		embed = '<iframe class="dailymotion-embed" frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/$1"></iframe>'
+		embed = '<iframe class="dailymotion-embed" frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/$1"></iframe>'
 
     var embedUrl = /<a href="(?:https?:\/\/)?(?:www\.)dailymotion\.com\/video\/(.+)">.+<\/a>/g;
     
