@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-dailymotion",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "NodeBB Dailymotion Plugin",
   "main": "library.js",
   "scripts": {
